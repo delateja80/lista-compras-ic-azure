@@ -66,7 +66,7 @@ $articulos = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <body>
 
 <div class="container">
-    <h1>🛒 Lista de Compras</h1>
+    <h1>🛒 Lista de Compras de Julio</h1>
 
     <!-- Formulario para agregar ítems -->
     <form action="index.php" method="POST">
